@@ -1,0 +1,6 @@
+{
+  "name": "StudyDeck Flashcards",
+  "description": "Interactive flashcard study platform with multi-mode learning, mastery analytics, spaced repetition tracking, and deck management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
